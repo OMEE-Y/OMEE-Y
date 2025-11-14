@@ -19,9 +19,8 @@
   <a href="https://www.linkedin.com/in/om-yewale-744905328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/yewaleom394" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+
+  
   <a href="https://leetcode.com/u/omee_codes/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
