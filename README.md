@@ -20,12 +20,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  
   <a href="https://leetcode.com/u/omee_codes/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
   <a href="https://www.geeksforgeeks.org/user/yewalecx7w" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-</p>
 
+  <a href="https://x.com/omee_y" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
