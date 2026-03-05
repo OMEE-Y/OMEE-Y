@@ -1,13 +1,16 @@
-
 <!-- ABOUT ME -->
-<h1 align="center"> About Me</h1>
+<h1 align="center">About Me</h1>
 
 <ul>
-  <li>Hey there! I'm <strong>Om Yewale</strong>, an  IT Engineering student at <strong>Vidyalankar Institute of Technology, Mumbai</strong>.</li>
-  <li>Currently learning and working with <strong>Java</strong>, <strong>Python</strong>, and <strong>Web Development</strong>.</li>
-  <li>Exploring the world of <strong>Artificial Intelligence & Machine Learning</strong>.</li>
-  <li>Passionate about building cool web apps and solving real-world problems through code.</li>
+  <li>I'm <strong>Om Yewale</strong>, an IT Engineering student at <strong>Mumbai University</strong> focused on building real software.</li>
+
+  <li>Full-stack developer working with <strong>Java</strong>, <strong>Python</strong>, and <strong>JavaScript</strong>.</li>
+
+  <li>I build web applications, write backend systems, and solve algorithmic problems.</li>
+
+  <li>Strong interest in <strong>AI</strong>, <strong>Machine Learning</strong>, and scalable systems.</li>
+
+  <li>I spend most of my time writing code, shipping projects, and improving system design and problem solving.</li>
+
   <li>📫 Reach me at: <a href="mailto:yewaleom394@gmail.com">yewaleom394@gmail.com</a></li>
 </ul>
-
-
