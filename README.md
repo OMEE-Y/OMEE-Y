@@ -14,3 +14,7 @@
 
   <li>📫 Reach me at: <a href="mailto:yewaleom394@gmail.com">yewaleom394@gmail.com</a></li>
 </ul>
+<h1 align="center">Visitors Count</h1>
+<p align="center">
+  <img src="https://count.getloli.com/get/@OMEE-Y?theme=moebooru" />
+</p>
