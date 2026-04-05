@@ -4,7 +4,7 @@
 <ul>
   <li>I'm <strong>Om Yewale</strong>, an IT Engineering student at <strong>Mumbai University</strong> focused on building real software.</li>
 
-  <li>Full-stack developer working with <strong>Java</strong>, <strong>Python</strong>, and <strong>JavaScript</strong>.</li>
+  <li>Full-stack developer working with <strong>Java</strong>, <strong>TypeScript</strong>, and <strong>JavaScript</strong>.</li>
 
   <li>I build web applications, write backend systems, and solve algorithmic problems.</li>
 
