@@ -15,6 +15,4 @@
   <li>📫 Reach me at: <a href="mailto:yewaleom394@gmail.com">yewaleom394@gmail.com</a></li>
 </ul>
 
-<h1 align="center">Yeah i  practice dsa here
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/OMEE_CODES)</h1>
