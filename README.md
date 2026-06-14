@@ -25,15 +25,7 @@
 ---
 <h1 align="center">Notable Achievements</h1>
 
-### Contributed and got featured here [dodopayments-cli v3.3.0 Release](https://github.com/dodopayments/dodopayments-cli/releases/tag/v3.3.0)
-
-Contributed as a core author for the **v3.3.0** release of the Dodo Payments CLI, implementing new scaffolding commands to initialize boilerplate billing routes and plugins across different backend and frontend frameworks.
-
-| Command | Description |
-| :--- | :--- |
-| `dodo init nextjs` | Initialize Next.js App Router billing routes |
-| `dodo init express` | Initialize Express server billing routes |
-| `dodo init better-auth [plugins]` | Initialize Better-Auth plugin configuration (plugins: checkout, portal, usage, webhooks) |
+### Contributed at [dodopayments-cli v3.3.0 Release](https://github.com/dodopayments/dodopayments-cli/releases/tag/v3.3.0) release of the Dodo Payments CLI, implementing new scaffolding commands to initialize boilerplate billing routes and plugins across different backend and frontend frameworks.
 
 ### Featured in [nanocollective.org](https://nanocollective.org)'s contributors page [nanocollective.org/contributors](https://nanocollective.org/contributors)
 
