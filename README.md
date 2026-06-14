@@ -38,3 +38,12 @@ Contributed as a core author for the **v3.3.0** release of the Dodo Payments CLI
 ### Featured in [nanocollective.org](https://nanocollective.org)'s contributors page [nanocollective.org/contributors](https://nanocollective.org/contributors)
 
 ---
+<h1 align="center">Personal Projects </h1>
+
+
+- **[secondbrain-link-vault](https://github.com/OMEE-Y/secondbrain-link-vault)** — A link-storing/bookmarking platform built with the MERN stack (TypeScript).
+
+- **[setup-dodo](https://github.com/OMEE-Y/setup-dodo)** — An interactive, zero-dependency CLI tool that instantly scaffolds Dodo Payments integrations into existing Next.js (App Router), Express, or Better-Auth codebases (JavaScript).
+
+- **[wallhavencli](https://github.com/OMEE-Y/wallhavencli)** — A lightweight, concurrent Java 21 command-line tool that scrapes and downloads high-resolution wallpapers from Wallhaven.cc using Virtual Threads for non-blocking execution.
+
