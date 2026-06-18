@@ -35,7 +35,7 @@
 
 - **[secondbrain-link-vault](https://github.com/OMEE-Y/secondbrain-link-vault)** — A link-storing/bookmarking platform built with the MERN stack (TypeScript).
 
-- **[setup-dodo](https://github.com/OMEE-Y/setup-dodo)** — An interactive, zero-dependency CLI tool that instantly scaffolds Dodo Payments integrations into existing Next.js (App Router), Express, or Better-Auth codebases (JavaScript).
+- **[setup-dodo](https://github.com/OMEE-Y/setup-dodo)** — An interactive, zero-dependency CLI tool that instantly scaffolds Dodo Payments integrations into existing Next.js (App Router), Express, or Better-Auth codebases 
 
 - **[wallhavencli](https://github.com/OMEE-Y/wallhavencli)** — A lightweight, concurrent Java 21 command-line tool that scrapes and downloads high-resolution wallpapers from Wallhaven.cc using Virtual Threads for non-blocking execution.
 
