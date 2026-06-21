@@ -39,9 +39,4 @@
 
 - **[wallhavencli](https://github.com/OMEE-Y/wallhavencli)** — A lightweight, concurrent Java 21 command-line tool that scrapes and downloads high-resolution wallpapers from Wallhaven.cc using Virtual Threads for non-blocking execution.
 
----
-<div align="center">
- <a href="https://open.spotify.com/user/31s7xdsugtipr2rmiukyntbzk3yu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31s7xdsugtipr2rmiukyntbzk3yu&count=3" alt="Spotify Recently Played">
-  </a>
-</div>
+
