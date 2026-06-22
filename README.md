@@ -23,13 +23,6 @@
 | **GDGVITM/GDG-VITM-SITE** | [`feat: add social media links to footer` (#2)](https://github.com/GDGVITM/GDG-VITM-SITE/pull/2) | 1 month ago |
 | **dodopayments/dodo-supabase-subscription-starter** | [`fix: load .env and .env.local in drizzle.config.ts` (#2)](https://github.com/dodopayments/dodo-supabase-subscription-starter/pull/2) | 1 month ago |
 ---
-<h1 align="center">Notable Achievements</h1>
-
-### Contributed at [dodopayments-cli v3.3.0 Release](https://github.com/dodopayments/dodopayments-cli/releases/tag/v3.3.0) release of the Dodo Payments CLI, implementing new scaffolding commands to initialize boilerplate billing routes and plugins across different backend and frontend frameworks.
-
-### Featured in [nanocollective.org](https://nanocollective.org)'s contributors page [nanocollective.org/contributors](https://nanocollective.org/contributors)
-
----
 <h1 align="center">Personal Projects </h1>
 
 
