@@ -1,17 +1,7 @@
-<h1 align="center">Om Yewale</h1>
-
-
-<p align="center">
-  <a href="mailto:yewaleom394@gmail.com">yewaleom394@gmail.com</a> • 
-  <a href="https://github.com/OMEE-Y">github.com/OMEE-Y</a>
-</p>
-
----
-
 ### About Me 
 
 * Full-stack developer focused on Java and JavaScript
-* Currently Learning Spring boot in Java
+* Currently Learning Spring boot and Python 
 * Interested in AI, Machine Learning, and full-stack opportunities
 
 ---
